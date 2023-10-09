@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+kidney-classifier
 
 # Spyder project settings
 .spyderproject
